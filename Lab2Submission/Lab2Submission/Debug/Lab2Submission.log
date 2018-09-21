@@ -1,0 +1,3 @@
+﻿  Lab2Submission.cpp
+c:\users\tech\source\repos\lab2submission\lab2submission\lab2submission.cpp(86): warning C4715: 'CheckMemory': not all control paths return a value
+  Lab2Submission.vcxproj -> C:\Users\Tech\source\repos\Lab2Submission\Debug\Lab2Submission.exe
